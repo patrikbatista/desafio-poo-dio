@@ -15,7 +15,7 @@ public class Main {
         Curso curso2 = new Curso("Curso Js", "Curso de JavaScript", 4);
         System.out.println(curso2);
 
-        Mentoria mentoria = new Mentoria("Mentoria de Java", "bootcamp Spread", LocalDate.now());
+        Mentoria mentoria = new Mentoria("Java", "Bootcamp Dio Spread", LocalDate.now());
         System.out.println(mentoria);
     }
 }
